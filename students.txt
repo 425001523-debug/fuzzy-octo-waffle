@@ -1,0 +1,22 @@
+# Student Database
+# Format: ID,Name,Course,GPA,Active,Year
+1,John Smith,BSIT,3.75,1,2024
+2,Maria Garcia,BSIT,3.90,1,2024
+3,Robert Johnson,BSCS,3.45,1,2024
+4,Emily Williams,BSIT,3.60,1,2025
+5,David Brown,BSCS,2.85,1,2024
+6,Sarah Davis,BSIT,3.95,1,2024
+7,Michael Rodriguez,BSCS,3.20,1,2025
+8,Jessica Martinez,BSIT,3.70,1,2025
+9,Daniel Anderson,BSCS,3.55,1,2024
+10,Amanda Taylor,BSIT,3.88,1,2024
+11,James White,BSCS,2.95,0,2023
+12,Lisa Lee,BSIT,3.65,1,2025
+13,Christopher Harris,BSCS,3.40,1,2024
+14,Michelle Clark,BSIT,3.85,1,2025
+15,Matthew Lewis,BSCS,3.10,1,2024
+16,Nancy Walker,BSIT,3.92,1,2024
+17,Mark Young,BSCS,3.30,1,2025
+18,Karen Allen,BSIT,3.75,1,2024
+19,Donald King,BSCS,2.70,0,2023
+20,Sandra Scott,BSIT,3.80,1,2025
